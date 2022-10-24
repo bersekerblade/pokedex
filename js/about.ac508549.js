@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpokedexvue"]=self["webpackChunkpokedexvue"]||[]).push([[443],{3207:function(e,n,u){u.r(n),u.d(n,{default:function(){return k}});var a=u(3396);const t={class:"about"},r=(0,a._)("h1",null,"iseng iseng ae nggae, nko di update terus ambek faiz",-1),s=[r];function i(e,n){return(0,a.wg)(),(0,a.iD)("div",t,s)}var c=u(89);const o={},d=(0,c.Z)(o,[["render",i]]);var k=d}}]);
+//# sourceMappingURL=about.ac508549.js.map
